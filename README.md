@@ -17,22 +17,26 @@ I’m a **FiveM developer** with a passion for building **custom scripts and imm
   <img src="https://skillicons.dev/icons?i=lua,js,vue,css,html,tailwind,github,vscode,figma,linux" alt="Skills" />
 </p>  
 
+---
+
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoeyDev490&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyDev490&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyDev490&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoeyDev490&show_icons=true&theme=green" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyDev490&layout=compact&theme=green" alt="Top Languages" />
 </p>  
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoeyDev490&theme=dracula&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffffff&hide_border=true" alt="Contribution Graph" />
-</p>
+---
 
+### 📈 Contribution Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoeyDev490&theme=github-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&hide_border=true" alt="Contribution Graph" />
+</p>  
+
+---
 
 ### 🤝 Let’s Connect  
 Looking to collaborate on **FiveM scripting & UI development**? Feel free to reach out!  
 
 📩 **Email:** [avax@avx.mozmail.com](mailto:avax@avx.mozmail.com)  
 💬 **Discord Server:** [discord.gg/codedev](https://discord.gg/codedev)  
-👤 **Discord Username:** `joey14t1952` 
+👤 **Discord Username:** `joey14t1952`
