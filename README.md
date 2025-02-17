@@ -24,6 +24,12 @@ I’m a **FiveM developer** with a passion for building **custom scripts and imm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyDev490&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoeyDev490&theme=dracula&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffffff&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
 ### 🤝 Let’s Connect  
 Looking to collaborate on **FiveM scripting & UI development**? Feel free to reach out!  
 
