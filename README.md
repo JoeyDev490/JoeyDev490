@@ -14,7 +14,7 @@ I’m a **FiveM developer** with a passion for building **custom scripts and imm
 
 ### 🛠️ Tools & Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,vue,css,html,github,vscode,figma" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,js,vue,css,html,github,vscode,figma,discord" alt="Skills" />
 </p>  
 
 ---
