@@ -5,7 +5,7 @@ I’m a **FiveM developer** with a passion for building **custom scripts and imm
 
 ### 🔧 Tech Stack  
 - **Languages:** Lua, JavaScript, CSS, TSX  
-- **Frameworks & Tools:** Vue.js, HTML, TailwindCSS, FiveM NUI  
+- **Frameworks & Tools:** Vue.js, HTML, FiveM NUI  
 - **Specialties:**  
   - UI/UX design & development  
   - Custom FiveM NUI interfaces  
@@ -21,8 +21,8 @@ I’m a **FiveM developer** with a passion for building **custom scripts and imm
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoeyDev490&show_icons=true&theme=green" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyDev490&layout=compact&theme=green" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoeyDev490&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyDev490&layout=compact" alt="Top Languages" />
 </p>  
 
 ---
