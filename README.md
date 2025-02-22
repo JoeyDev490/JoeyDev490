@@ -21,8 +21,8 @@ I’m a **FiveM developer** with a passion for building **custom scripts and imm
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoeyDev490&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyDev490&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoeyDev490&show_icons=true&theme=shadow_green" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyDev490&layout=compact&theme=shadow_green" alt="Top Languages" />
 </p>  
 
 ---
