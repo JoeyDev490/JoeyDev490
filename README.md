@@ -39,4 +39,4 @@ Looking to collaborate on **FiveM scripting & UI development**? Feel free to rea
 
 📩 **Email:** [avax@avx.mozmail.com](mailto:avax@avx.mozmail.com)  
 💬 **Discord Server:** [discord.gg/codedev](https://discord.gg/codedev)  
-👤 **Discord Username:** `joey14t1952`
+👤 **Discord Username:** `app.vue`
