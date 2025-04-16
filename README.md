@@ -38,5 +38,5 @@ I’m a **FiveM developer** with a passion for building **custom scripts and imm
 Looking to collaborate on **FiveM scripting & UI development**? Feel free to reach out!  
 
 📩 **Email:** [joey@backlandrp.xyz](mailto:joey@backlandrp.xyz)  
-💬 **Discord Server:** [discord.gg/codedev](https://discord.gg/codedev)  
+💬 **Discord Server:** [discord.gg/timedev](https://discord.gg/timedev)  
 👤 **Discord Username:** `app.vue`
